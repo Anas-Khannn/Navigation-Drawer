@@ -36,9 +36,9 @@ This repository covers the foundational concepts of **navigation** and **routing
 
 ## 📸 Screenshots
 
-Attach screenshots below using the markdown script:
 
-```markdown
+
+
 ### 🖼️ Screens
 
 #### ✅ Home Screen
@@ -49,3 +49,4 @@ Attach screenshots below using the markdown script:
 
 #### ✅ Navigation Drawer
 ![Drawer](https://github.com/Anas-Khannn/Navigation-Drawer/blob/1a7327f4c9df67b41d52bded3345de0e501fe086/Navigation%20bar.png)
+
